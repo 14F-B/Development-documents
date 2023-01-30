@@ -5,6 +5,6 @@
 
 [Script](https://docs.google.com/document/d/e/2PACX-1vRJLQf202Y7KgG197yfstgQ_B5D_wssfmtCd10WPRdQl3JN0zYSXmkYFVBYHbDRfj45zHZqfqBDR5Ak/pub)
 
-Relációs modell](https://1drv.ms/u/s!AgBFqSHZFyTTluNFyQgu2bahD9wYtA?e=pgi82G)
+[Relációs modell](https://1drv.ms/u/s!AgBFqSHZFyTTluNFyQgu2bahD9wYtA?e=pgi82G)
 
 
