@@ -1,10 +1,24 @@
 # Development documents
-[Szakdolgozat specifikáció](https://onedrive.live.com/view.aspx?resid=D32417D921A94500!350032&ithint=file%2cdocx&authkey=!AOA51Ca1FbhZ1I4)
+[Szoftver specifikáció](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_szoftver_specifikacio.pdf)    
+[Feladatkiosztás](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_feladatkiosztas.pdf)    
+[Felhasználó felület tesztelése során észlelt hibák](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_felhasznaloi_felulet_tesztelese.pdf)    
+[Fullstack projekt futtatása helyi környezetben](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_fullstack_futtatasa_localhoston.pdf)    
 
-[ER-modell](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=VegsoERModell.jpg#R7Vxbl5s2EP41e0774BwECHsfs5ek6UnaTXKSNHnZw9parBQQAdlr99dXAnGTWC92bSTSzUMWRkKg75sZzYjBZ85ltHmd%2BsnyHVmg8My2Fpsz5%2BrMZv%2Fcc%2FaHS7aF5By4hSBI8aIQgVrwEf%2BDhNAS0hVeoKzVkRISUpy0hXMSx2hOWzI%2FTclDu9s9Cdt3TfwAKYKPcz9UpV%2Fwgi4L6cye1vLfEA6W5Z2BJyYc%2BWVnMZNs6S%2FIQ0PkXJ85lykhtDiKNpco5OCVuBTXvXqktXqwFMW0zwWR9%2B598OebaRZ%2F%2FgDee2t%2Ffb%2BaAFs8HN2WM0YLBoA4jUnM%2FlykZBUvEB%2FHYmckpUsSkNgP3xKSMCFgwu%2BI0q2gz19RwkRLGoWiFW0w%2FYtf%2FgKKs69iMH58tWmebMuTmKbbxkX89Gs5Hj%2BpL8vP6usWLznx9eMzySschqJdxU1AmZFVOke7wBL656cBojv6waIfB7JxA8HKa0QixJ6XdUhR6FO8bmuaLxQ2qPrVnLIDQes%2BFBfjrv1wJe50g9J7kkYozRTy20w%2FLDFFHxM%2FR%2BWBGXib1UeRXKOUos3OuYtWdyasQ7iH8vShtjVQGtCyYWeedSK0XE%2BjQYCDDMLSZhB2T4NwpkZZRLkmmcwxaDFcE24ux8AojqH1zPHxObbN4hg8c3x8js2KXqDOAPUpjrVz5ZnFlfPM1eNcuUZxZStZwafMhIRgAtoJgX2uOyMAU4O12rSMwOlpDWYlBGD2TPHRKQZmBRJgBEnf%2BDg2KwCxR5D0jY9jswIXOLAdNxiu%2BR5L0teXY2jWeuwowelbMmf3JbH%2BANWDpgWo9ii2rL2mTUysF8BxnjQLdnaDUsxgQunJbcXtaSvlgIbYij2K9MQDjsS%2F5U1Hyr9jFv%2FPucsJODZro9t%2Bzl1OwLFZca0zitzF%2FYn8uFn7ExAqQe8wClETcf0h8uOtQkVN%2F35pzekpPLoF55cyOPxto0NCcEyzxsg3XFBnBFVkLzICp12IxQ6KEWvdqB7tP6jLzHh12TML%2Fr%2Boi%2BvuVBelPwQa1MtVtOt6jcS0tKbf5ezNSb%2B7%2FLYXsrterNhBwA%2FY9ULE7lBJVXsNQ5xkaBAcXclpARXGWQeKzsnespn87rgOcZnbbTk1CxgW%2FXg9faFZmxieYkOxHyGtBgKnZhnIdJRuxrPaKLq6YQTqyhaS%2Ba12dZu60zZQrm6g1HUtoyliTkWrPkm77%2FphUl3X3GcIYLrVq09S1Oh2VNZPhwSqmsK4HJhtmgMr87wGjn6AbkMcYb2mKUfm7lQ3UuprRO1u3paSPxfqBkldD%2Bc%2BRQHhYxe2mCV%2B3ELM%2B7HiH61dzElIWET7koeJwZ3%2FC3tG9hCW9OfXHDnrnsR0cu9HONwWl0QkJlmBddWe5XE7b7WSTSFnwNKJH%2BIgLhoyFtoWXqF8jNpPQPlDRMiQ4NL8K7vqrEQG5tgwyRU%2F5uoLORaQAfpUX1D1LfXhoGHsepiCgKqF%2F8fhZwLuH2E%2BR36SX1415bdptdcjFoRVI5Zqzjs1FJ2356rO5bmycwmQxhIa3mf%2BVVM19doMIDeEqmceHJbDbGt57mNLeWEYVdus0SQMpGpzGm3MUCp50Li%2FTEx%2BWrHTFLZ1RvRTlKtargorMWDFcssQt3Qxnm4Xo0aSC%2BZi9IIk%2B2Hdy7ozzvBoAuT4yNINpBofocjH4a2%2FWKQoU3cwh4VLDpIGzF%2B%2B%2F%2FjDefPl5u7i1er%2Ba%2FgeBVsXToatHSqP96qm2%2FP77zxAkHbXclnrHcXJKu76ltwJNTVkA85RY%2BUEpRHOMkxizSYjZbLQ0e1h1JBZe14xkfwK1L0v4qiLfsBsDKWG%2Bd%2BObZFhcVL3j%2B4wc7C3%2BkMkSaO0R0jqDnjiZ9kDSRdacTo3TKPgwOXAhyzphxfIP1J0cPiCDXvXCxm1YEN1EbphMQ6e4yQvlFd0IF2S6G6VPW0Sbc04goEA6Tdeun7kpctCZiezENWTfFmiVHW3%2BjCTiz60Y%2BbBYb3KsCWoR%2FcqXt80wKwiVG%2FYjwkOSwfNWTt6s2xYtYWa7ImfBOuo79LmAh0pAO35OukYHrBzp0QtUBrVtshRtjw6gQE9jUDbdzO7nrphA0uyytBtvIruNGepcumRM%2BAOfidW7rBr%2F8%2B0SdiJpz1Ki7EVi9Fe5TLT%2BPbh02cQXNJkPf%2F97io5n7x8QyfZZOAoeS9LOYI2d8756MGNuFSqg5crmhwokViYk7hK4nG%2Fkvhd02zW3SRJiJHe3aeZrW%2Bt6IRp4LViLD8o3ImV8UnirqduGMIqDW9DHP%2Bt1RKcabvuAQ64FtDo%2B4%2Fgj%2Bjba0oX%2BN18%2Bw1Z61MmDPupfR%2F1lXTrSX3unPFpHD8czO8%2FPinpbR%2FfYfXDI0Q%2Finp3AP%2F4xqojRT8DvvTrhErnHmF%2F39%2F%2Bhge8sJ7eQjr4E56jmNVe3zcOsCrseshmkRfK5ilOOt9GDGkmrpxOn64w%2BUyUDTYcUF0w6Fz%2FCw%3D%3D)
 
-[Script](https://drive.google.com/file/d/1LcdT86Ox__adgBIvzUEeRFz1INbJYA0L/view?usp=sharing)
+## Adatbázis (mySQL)
+[ER-modell](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_db_er_modell.pdf)   
+[Relációs modell](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_db_relacios_modell.pdf)    
+[SQL dump](https://github.com/14F-B/Fullstack-version-with-EJS-and-VUE/blob/main/Goevent_app_db_dump.sql)   
 
-[Relációs modell](https://drive.google.com/file/d/1YI544kUieUJRnk9--qEi86Qd-Q3aB72h/view?usp=sharing)
+## Backend (node.js)
+[Függvények tartalma (Controllers)](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_backend_controllers.pdf)
+
+## Frontend (vue.js)
+[Komponensek tartalmai](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_frontend_components.pdf)
+
+## Repositories
+[Fullstack](https://github.com/14F-B/Fullstack-version-with-EJS-and-VUE): Ez a repository tartalmazza azon verziót, ahol EJS és Vue.js megjelenést használva képes önállóan és együtt is működni localhost, azaz helyi hálózaton.   
+
+[Backend API](https://github.com/14F-B/Hosted-version-Backend) + [Frontend](https://github.com/14F-B/Hosted-version-Frontend): Ezen repository-k a közzétett verzió forráskódját tartalmazzák. 
 
 
