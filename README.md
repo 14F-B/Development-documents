@@ -3,6 +3,7 @@
 [Feladatkiosztás](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_feladatkiosztas.pdf)    
 [Felhasználó felület tesztelése során észlelt hibák](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_felhasznaloi_felulet_tesztelese.pdf)    
 [Fullstack projekt futtatása helyi környezetben](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_fullstack_futtatasa_localhoston.pdf)    
+[Szakdolgozat](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_Szakdolgozat.pdf)    
 
 
 ## Adatbázis (mySQL)
@@ -22,3 +23,4 @@
 [Backend API](https://github.com/14F-B/Hosted-version-Backend) + [Frontend](https://github.com/14F-B/Hosted-version-Frontend): Ezen repository-k a közzétett verzió forráskódját tartalmazzák. 
 
 
+Különbség a két "csomag" között az az, hogy a Fullstack-es projekt **nem tartalmaz swaggert**, a közzétett Backend API pedig **nem tartalmazza az EJS fájlokat és útvonalakat**, valamint **nem generál QR kódot emailben**.
