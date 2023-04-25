@@ -16,6 +16,9 @@
 
 ## Frontend (vue.js)
 [Komponensek tartalmai](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_frontend_components.pdf)
+[Inputmezők](https://github.com/14F-B/Development-documents/blob/main/GOEVENT_frontend_components.pdf)
+
+https://github.com/14F-B/Development-documents/blob/main/GOEVENT_Inputmezok.pdf
 
 ## Repositories
 [Fullstack](https://github.com/14F-B/Fullstack-version-with-EJS-and-VUE): Ez a repository tartalmazza azon verziót, ahol EJS és Vue.js megjelenést használva képes önállóan és együtt is működni localhost, azaz helyi hálózaton.   
