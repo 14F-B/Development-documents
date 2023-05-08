@@ -24,6 +24,3 @@
 [Fullstack](https://github.com/14F-B/Fullstack-version-with-EJS-and-VUE): Ez a repository tartalmazza azon verziót, ahol EJS önállóan képes működni localhost-on. Emellett a kipublikált verzió helyi környezetben való kipróbálására is alkalmas.     
 
 [Backend API](https://github.com/14F-B/Hosted-version-Backend) + [Frontend](https://github.com/14F-B/Hosted-version-Frontend): Ezen repository-k a közzétett verzió forráskódját tartalmazzák. 
-
-
-Különbség a két "csomag" között az az, hogy a Fullstack-es projekt **nem tartalmaz swaggert**, a közzétett Backend API pedig **nem tartalmazza az EJS fájlokat és útvonalakat**, valamint **nem generál QR kódot emailben**.
